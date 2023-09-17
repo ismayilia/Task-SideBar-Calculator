@@ -1,0 +1,202 @@
+
+/* Sidebar right */
+
+/* .sidebar{
+    width: 300px;
+    height: 100vh;
+    background-color: magenta;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    transition: all 0.5s;
+    
+
+}
+
+.move-sidebar{
+    
+    transform: translate(250px,0);
+
+}
+
+.sidebar-right{
+    display: flex;
+    justify-content: flex-end;
+    overflow-y: hidden;
+}
+
+.sidebar i{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.sidebar i:hover{
+    color: black;
+}
+
+.sidebar ul{
+    margin-top: 50px;
+    list-style: none;
+}
+
+.sidebar ul li{
+    line-height: 60px;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.sidebar ul li a{
+    text-decoration: none;
+    color: white;
+    transition: all 0.5s;
+}
+
+.sidebar ul li a:hover{
+    color: black;
+} */
+
+
+
+
+/* Sidebar top */
+
+/* .sidebar{
+    width: 100%;
+    height: 200px;
+    background-color: magenta;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    transition: all 0.5s;
+    align-items: center;
+    
+
+}
+
+.move-sidebar{
+    
+    transform: translate(0,-150px);
+
+}
+
+.sidebar-top{
+    display: flex;
+    justify-content: flex-end;  
+    
+}
+
+.sidebar i{
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.sidebar i:hover{
+    color: black;
+}
+
+.sidebar ul{
+    
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.sidebar ul li{
+    line-height: 60px;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.sidebar ul li a{
+    text-decoration: none;
+    color: white;
+    transition: all 0.5s;
+    margin-left: 20px;
+
+}
+
+.sidebar ul li a:hover{
+    color: black;
+} */
+
+
+.sidebar{
+    width: 100%;
+    height: 200px;
+    background-color: magenta;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    transition: all 0.5s;
+    align-items: center;
+    
+
+}
+
+.move-sidebar{
+    
+    transform: translate(0,150px);
+
+}
+
+.sidebar-bottom{
+    display: flex;
+    align-items:flex-end;
+    height: 100vh;
+    overflow-y: hidden;
+    
+    
+    
+}
+
+.sidebar i{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.sidebar i:hover{
+    color: black;
+}
+
+.sidebar ul{
+    
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-top:10px;
+    
+}
+
+.sidebar ul li{
+    line-height: 60px;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.sidebar ul li a{
+    text-decoration: none;
+    color: white;
+    transition: all 0.5s;
+    margin-left: 20px;
+
+}
+
+.sidebar ul li a:hover{
+    color: black;
+}

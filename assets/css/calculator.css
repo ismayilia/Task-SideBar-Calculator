@@ -1,0 +1,26 @@
+.calculator{
+   text-align: center;
+   margin-top: 5rem;
+}
+
+.calculator .buttoms{
+    margin: 40px 0;
+
+}
+
+.inputs input{
+margin: 0 35px;
+width: 40%;
+}
+
+.buttoms button{
+    width: 15%;
+    height: 35px;
+    margin: 0 30px;
+    color: white;
+    border: none;
+}
+
+.result input{
+    width: 40%;
+}
